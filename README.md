@@ -34,5 +34,4 @@
 ---
 
 ## 👩‍💻 Author
-
-Itone Benjawan Rungsatthatham
+Benjawan Rungsatthatham
